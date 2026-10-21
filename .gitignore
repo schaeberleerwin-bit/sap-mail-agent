@@ -1,0 +1,4 @@
+.env
+__pycache__/
+_bak_prepublish/
+*.pyc
