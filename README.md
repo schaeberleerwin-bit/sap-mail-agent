@@ -135,3 +135,9 @@ Lieferanfrage per Mail, KI fragt SAP ab, Antwort liegt als Entwurf in Outlook.
 4. In Outlook unter Entwürfe liegt nach wenigen Sekunden die Antwort, verknüpft mit der Anfrage. Prüfen, senden.
 
 Nur Mails von `DEMO_SENDER` werden gelesen, alle anderen bleiben unberührt. Nur lesende SAP-Abfragen.
+
+## Autor und Lizenz
+
+Entwickelt von Erwin Schäberle, [Schäberle Digital](https://www.schaeberle-digital.de): KI-Anbindung an SAP und andere ERP-Systeme über MCP-Server.
+
+Lizenz: MIT, siehe [LICENSE](LICENSE).
